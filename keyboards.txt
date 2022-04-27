@@ -1,0 +1,31 @@
+First, welcome to a fun rabbit hole.
+
+There's a few different options I ended up finding to combat RSI in my hands;
+- the move to a different format of keyboard to reduce finger strain, called ortholinear
+- split the keyboard to help wrist/arm/shoulder strain, this helps a ton for posture.
+- making a custom keyboard that combines the two and is spec'd to your fancy
+- moving away from qwerty for a more efficient key layout
+
+Both ortholinear and split boards are moving you closer to a natural stance while typing, you can usually find both of these options together on some really good products but both words are 'premium' modifiers to pricing. To my knowledge, Leon uses a Kinesis that is both ortho and split but also is formed to the hand for the least amount of movement needed BUT that board starts at like $400.
+
+My first recommendation, if you have a little hobbiest in you would be to build a custom keyboard as the options and thought that goes into them results in a quality typing experience. If you get into this one, be prepared for a LOT of looking around to collect the needed supplies. Expect shipping to be in the range of a month for all parts to get to you
+
+~ https://www.littlekeyboards.com/ -custom keyboard 'kits' gets you the hard to source parts
+~ https://keeb.io/ -another custom kit maker
+
+Second to that, in my opinion, is to grab a pre-built that is a custom board builder turned professional, like Ergodox and Kinesis. This option is probably the most expensive but that's the trade off for your time to gather the information for the previous option. These look wonky but are the tried and true options that are successful in what they advertise. Shipping times on these vary a lot
+
+~ https://kinesis-ergo.com/products/#advantage2 -pricey but well founded
+~ https://ergodox-ez.com/ -pricey but comes with premium support and software
+~ https://dygma.com/ -leet gamer gear
+~ https://ultimatehackingkeyboard.com/ -expensive for size but hackerman vibe
+
+Third option if the previous are intimidating, you can snag a 'cheap' ergonomic keyboard. There's a lot out there that are good/bad and the reviews will let you know. Anything that looks like it would be found in an office will have the corporate tax on it because businesses spend extra to get large batches of the same item.
+
+~ https://cloudnineergo.com/products/cloud-nine-ergotkl-ergonomic-split-mechanical-keyboard  -Warroach uses this board, says he loves it
+~ https://kinesis-ergo.com/shop/freestyle-pro/ -split keyboard, pretty basic but corporate tax
+~ https://kinesis-ergo.com/keyboards/freestyle2-keyboard/ -basicly same as above but cheaper for some reason
+
+
+!! Any info you could desire on ergo keyboards can be found here !!
+~ https://github.com/diimdeep/awesome-split-keyboards/blob/master/README.md#build-your-own-keyboard-do-it-yourself---diy   -fantastic source of data and even source files for open source boards
